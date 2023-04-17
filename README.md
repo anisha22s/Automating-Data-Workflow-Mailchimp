@@ -12,7 +12,7 @@ pip install mailchimp-marketing
 
 To use the code, first replace the placeholders in the following lines with the desired audience name and survey title from Mailchimp:
 
-name = '#######'  # replace with desired audience under which the survey will be stored. 
+name = '#######'  # replace with desired audience under which the survey will be stored.  
 title = '#######'  # replace with desired survey title from Mailchimp. Further code extracts survey responses only from this title. 
 
 Then, replace the API key and server values with your own:
