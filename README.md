@@ -1,3 +1,7 @@
-# Mailchimp-with-API
-How to access data from your Mailchimp using API's
-In this code, i have accessed survey responses from mailchimp in real time. the responses are then formatted for a pandas dataframe
+# **Mailchimp-with-API**
+
+This repository contains code that allows you to access survey responses from your Mailchimp account in real-time using Mailchimp API's. The responses are then formatted into a Pandas dataframe for easy integration with other tools.
+
+## **Installation**
+
+You will need to have the mailchimp-marketing package installed. You can install it using the following command:
