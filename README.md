@@ -27,16 +27,15 @@ client.set_config({
 
 The code performs the following steps:
 
-Accessing survey response from Mailchimp
-Extracting list ID for the desired audience
-Finding the survey ID for the specified survey title
-Extracting all the response IDs for that particular survey
-Using the response IDs to extract all the survey responses
-Cleaning the responses dataframe in a desired format, separating response answers into different columns for easy integration with Tessitura  
-Accessing the mailchimp customer data to essentially retrieve Customer ID for each customer  
-Integrating the survey and customer datasets  
+1. Accessing survey response from Mailchimp
+2. Extracting list ID for the desired audience
+3. Finding the survey ID for the specified survey title
+4. Extracting all the response IDs for that particular survey
+5. Using the response IDs to extract all the survey responses
+6. Cleaning the responses dataframe in a desired format, separating response answers into different columns for easy integration with Tessitura  
+7. Accessing the mailchimp customer data to essentially retrieve Customer ID for each customer  
+8. Integrating the survey and customer datasets  
 
-**Feel free to modify this README file to fit your specific needs. The survey questions will be different**
 
 ## **Reference**
 
