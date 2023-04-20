@@ -32,7 +32,9 @@ Extracting list ID for the desired audience
 Finding the survey ID for the specified survey title
 Extracting all the response IDs for that particular survey
 Using the response IDs to extract all the survey responses
-Cleaning the responses dataframe in a desired format, separating response answers into different columns for easy integration with Tessitura
+Cleaning the responses dataframe in a desired format, separating response answers into different columns for easy integration with Tessitura  
+Accessing the mailchimp customer data to essentially retrieve Customer ID for each customer  
+Integrating the survey and customer datasets  
 
 **Feel free to modify this README file to fit your specific needs. The survey questions will be different**
 
@@ -41,4 +43,8 @@ Cleaning the responses dataframe in a desired format, separating response answer
 Please refer to Mailchimp API documentation guide
 
 https://mailchimp.com/developer/marketing/api/root/
+
+## **Credits**
+
+Project created entirely by Anisha
 
