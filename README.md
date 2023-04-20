@@ -1,5 +1,6 @@
 # **Mailchimp-with-API**
 
+As part of UC Davis MSBA program, I worked as a Data Analyst for a performing arts center.
 This repository contains code that allows you to access survey responses from your Mailchimp account in real-time using Mailchimp API's. The responses are then formatted into a Pandas dataframe for easy integration with other tools.
 
 ## **Installation**
